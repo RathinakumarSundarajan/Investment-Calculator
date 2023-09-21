@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    margin: 3rem auto;
+  }
+  
+  
+  .header img {
+    width: 8rem;
+    height: 5rem;
+    object-fit: contain;
+    background-color: transparent;  /*-----This will gives equivallent background color for this image also------*/
+  }
+  
+  .header h1 {
+    font-size: 1.5rem;
+  }
